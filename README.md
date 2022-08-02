@@ -1,9 +1,8 @@
 <h1>Car Price Prediction Project</h1>
 
+### Step 1 : Data Preprocessing
 
-### Step 1 : Exploratory Data Analysis
-
-### Step 2 : Data Preprocessing
+### Step 2 : Exploratory Data Analysis
 
 ### Step 3 : Feature Engineering
 
