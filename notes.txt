@@ -1,0 +1,24 @@
+## import dependacies
+import pandas
+
+## data load
+df =pd.read_csv(“/home/shubham/data.csv”)
+
+## head command
+df.head(10)
+df.tail(10)
+
+## data size, rows col
+df.shape()
+
+## information about data
+df.info() null values+dtpes
+
+## 5 point summary, mean median std min max
+ df.describe()
+
+## THings to do
+
+1. Duplicate data?
+2. Categorical colu..spelling mistake---
+   1. check unique values
