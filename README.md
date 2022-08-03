@@ -11,9 +11,9 @@
 <strong> Step 2 : Outlier Detection </strong><br>
   Below are the methods to detect the outliers
   <ol>
-  <li>Boxplots</li>
-  <li>Z-score</li>
-  <li>Inter Quantile Range(IQR)</li>
+  <li>Boxplots <a href="https://towardsdatascience.com/boxplot-for-anomaly-detection-9eac783382fd"> YouTube Video </a></li>
+  <li>Z-score  <a href="https://www.youtube.com/watch?v=KFuEAGR3HS4&t=1063s"> YoutTube Video</a></li>
+  <li>Inter Quantile Range(IQR) <a href="https://www.youtube.com/watch?v=A3gClkblXK8"> YoutTube Video</a></li>
   </ol> 
   Below are methods to treat the outliers
   <ol>
