@@ -22,6 +22,15 @@
   <li>Quantile based flooring & capping</li>
   <li>Insensitive Machine Learning Models</li>
   </ol> 
+  <strong> Step 3 : Feature Encoding </strong><br>
+  Encondig are of 3 types: Binary, Ordinal, Nominal <a href="https://www.geeksforgeeks.org/feature-encoding-techniques-machine-learning/">Refer This Blog</a>
+  <ol>
+  <li>Label Encoding</li>
+  <li>Oridinal Encoding <a href="https://datascience.stackexchange.com/questions/39317/difference-between-ordinalencoder-and-labelencoder"> Must Read </a> </li>
+  <li>One Hot Encoding</li>
+  <li>Frequency Encoding</li>
+  <li>Mean/Target Encoding</li>
+  </ol> 
 </p>
 </details>
 
